@@ -22,12 +22,11 @@ Created a new column named “Age group” from the Age column using the Nested 
 Data Visualization:
 
 1.Created Pivot tables and visualized the tables with recommended charts
-
 To create Pivot tables: Insert tab — Pivot Table — From Table/Range
 
-2. Created Slicers — easy-to-use buttons or filters in a report or chart that help you quickly narrow down the information you want to see. 4 slicers were created; Marital Status, Education, Occupation, Region.
-3. 
-4. Built an Interactive dashboard
+2.Created Slicers — easy-to-use buttons or filters in a report or chart that help you quickly narrow down the information you want to see. 4 slicers were created; Marital Status, Education, Occupation, Region.
+ 
+3.Built an Interactive dashboard
 
 Summary:
 
